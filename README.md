@@ -9,7 +9,7 @@ Then use this program to extract only text.
 
 Run the following commands
 
-
+```
 sudo cp extract-text.py /bin
 
 sudo cp html2text.py /bin
@@ -17,7 +17,7 @@ sudo cp html2text.py /bin
 sudo chmod a+x /bin/extract-text.py
 
 sudo chmod a+x /bin/html2text.py
-
+```
 
 
 
